@@ -1,0 +1,17 @@
+{
+  "name": "graphqlyogastarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "packages/backend/src/index.js",
+  "scripts": {
+    "start": "npx lerna run start --stream"
+  },
+  "keywords": [],
+  "author": "ridermansb",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
